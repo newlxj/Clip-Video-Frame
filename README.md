@@ -59,6 +59,5 @@ Let's take a look at the wonderful editing video below:
 
 256px 30 frame  mp4
  
-<video id="video" controls="" preload="none" poster="">
-      <source id="mp4" src="https://github.com/newlxj/Clip-Video-Frame/blob/main/image/CriminalMindsSeason1720p_Criminal_Minds_S01E04_720p_WEB-DL_Dolby_Digital_5_1_h264_mkv_8374.mp4?raw=true" type="video/mp4">
-</videos>
+
+https://github.com/newlxj/Clip-Video-Frame/blob/main/image/CriminalMindsSeason1720p_Criminal_Minds_S01E04_720p_WEB-DL_Dolby_Digital_5_1_h264_mkv_8374.mp4?raw=true
